@@ -40,9 +40,8 @@ Algolite is designed as a lightweight trading platform. You are in charge of run
 
 ## Note
 
-🚀 **Strategy Server Release Coming Very Soon.**  
-Currently under development, with ongoing testing and optimizations.  
-
+🚀 **Strategy Server Avaliable!.**  
+Download [`Strategy Server`](https://github.com/ShuChenDev/Algolite-public/releases/tag/Strategy_Server)
 More details available in [`/backend/app/main.py`](./backend/app/main.py).  
 
 ---
